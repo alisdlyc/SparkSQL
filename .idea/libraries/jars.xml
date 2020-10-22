@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="file://$USER_HOME$/software/spark-2.3.3-bin-hadoop2.6/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/kvstore/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/kvstore/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/network-common/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/network-common/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/network-shuffle/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/network-shuffle/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/network-yarn/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/sketch/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/tags/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/tags/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/tags/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/unsafe/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/common/unsafe/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/core/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/core/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/core/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/examples/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/flume/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/flume/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/kafka-0-10-sql/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/kafka-0-10/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/kafka-0-10/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/kafka-0-8/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/kafka-0-8/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/kinesis-asl/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/external/kinesis-asl/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/graphx/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/graphx/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/launcher/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/launcher/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/mllib/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/mllib/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/catalyst/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/catalyst/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/core/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/core/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/core/src/test/gen-java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/core/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/hive-thriftserver/src/gen/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/hive-thriftserver/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/hive/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/hive/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/sql/hive/src/test/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/streaming/src/main/java" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/streaming/src/main/scala" />
+      <root url="file://$USER_HOME$/software/spark-2.3.3/streaming/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/software/spark-2.3.3-bin-hadoop2.6/jars" recursive="false" />
+  </library>
+</component>
