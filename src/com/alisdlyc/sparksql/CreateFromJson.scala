@@ -1,6 +1,6 @@
 package com.alisdlyc.sparksql
 
-import org.apache.spark.sql.SQLContext
+import org.apache.spark.sql.{SQLContext, SparkSession}
 import org.apache.spark.{SparkConf, SparkContext}
 
 object CreateFromJson {
@@ -9,6 +9,13 @@ object CreateFromJson {
     val sc = new SparkContext(conf)
 
     val sqlContext = new SQLContext(sc)
+//    val spark = SparkSession
+//      .builder()
+//      .appName("Spark SQL basic example")
+//      .config("spark.some.config.option", "some-value")
+//      .getOrCreate()
+//
+
 
     /**
      * DataFrame 有数据 有scheme信息
