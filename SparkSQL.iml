@@ -11,5 +11,6 @@
     <orderEntry type="library" name="jars" level="project" />
     <orderEntry type="library" name="mysql-connector-java-5.1.49" level="project" />
     <orderEntry type="library" name="scala-sdk-2.12.12" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.13.3" level="application" />
   </component>
 </module>
