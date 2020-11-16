@@ -1,7 +1,7 @@
 package com.alisdlyc.MovieAnalyze.ETLJob
 
 import com.alisdlyc.MovieAnalyze.Dao.MovieDao
-import com.alisdlyc.MovieAnalyze.Domain.WeekCnt
+import com.alisdlyc.MovieAnalyze.Domain.{MovieRate, WeekCnt}
 import com.alisdlyc.MovieAnalyze.Utils.DateUtil
 import org.apache.spark.sql.types._
 import org.apache.spark.sql.{DataFrame, Row, SparkSession}
@@ -40,8 +40,6 @@ object AnalyzeMovie {
 			val cnt = line(1).toString.toInt
 			MovieDao.insertWeekCnt(WeekCnt(week, cnt))
 		})
-
-
 	}
 
 	def top10Movie(path: String, spark: SparkSession): Unit = {

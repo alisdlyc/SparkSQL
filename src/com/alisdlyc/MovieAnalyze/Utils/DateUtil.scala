@@ -18,7 +18,5 @@ object DateUtil {
 		val weekDay = calendar.get(Calendar.DAY_OF_WEEK)
 		weekDay
 	}
-
-
 }
 

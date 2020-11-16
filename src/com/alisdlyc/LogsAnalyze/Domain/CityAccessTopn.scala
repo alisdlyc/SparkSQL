@@ -1,3 +1,3 @@
 package com.alisdlyc.LogsAnalyze.Domain
 
-case class CityAccessTopn (day:String,city:String,times:Long)
+case class CityAccessTopn(day: String, city: String, times: Long)
